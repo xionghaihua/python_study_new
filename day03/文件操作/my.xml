@@ -1,0 +1,15 @@
+<data>
+    <country name="Singapore">
+        <rank updated="yes">3</rank>
+        <year>2026</year>
+        <gdppc>9999</gdppc>
+        <neighbor direction="W" name="Malaysia" />
+    </country>
+    <country name="Panama">
+        <rank updated="yes">4</rank>
+        <year>2025</year>
+        <gdppc>11600</gdppc>
+        <neighbor direction="W" name="Costa Rica" />
+        <neighbor direction="E" name="Colombia" />
+    </country>
+</data>
